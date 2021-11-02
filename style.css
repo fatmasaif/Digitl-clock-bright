@@ -1,0 +1,16 @@
+body{
+    background: black;
+   
+    
+}
+.container{
+    /* background: violet; */
+    position: absolute;
+    top:50%;
+    left: 50%;
+    font-size: 70px;
+    font-weight: bold;
+    transform: translate(-50% , -50%);
+    color:#fff;
+    text-shadow: 0 0 10px #00b3ff,0 0 20px #00b3ff,0 0 80px #00b3ff,0 0 12px #00b3ff;
+}
